@@ -1,5 +1,5 @@
 # WokeUnited
-![alt tag](https://pbs.twimg.com/media/B5Rjed6CIAABXwz.jpg:large)
+![alt tag](https://pbs.twimg.com/profile_images/486931652329746432/wIUps2Uz.jpeg)
 
 public class Peta extends javax.swing.JFrame {
 
